@@ -5,9 +5,9 @@
 <h1 align="center">I'm Raquel</h1>
 <h3 align="center">A passionate full stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Food Delivery Marketplace Project**
+- 🔭 I’m currently working on **Food Delivery Marketplace**, it's a personal project to train my skills and improve knowledge
 
-- 📫 How to reach me [Email](raquel.ciusz@yahoo.com)
+- 📫 How to reach me **[Email](raquel.ciusz@yahoo.com)**
 
 - 📄 Know about my experiences [Raquel Resume](https://drive.google.com/file/d/1MuompIqd4xYDGxWfnArJVxtgpiuHMgyU/view?usp=sharing)
 
