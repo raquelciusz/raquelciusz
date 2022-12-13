@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Raquel</h1>
 <h3 align="center">A passionate full stack developer from Brazil</h3>
 
