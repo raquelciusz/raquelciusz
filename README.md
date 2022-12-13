@@ -27,3 +27,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raquelciusz&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raquelciusz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3 align="left">My stats:</h3>
+<div style="display: inline_block">
+    <img height="164em" src="https://github-readme-stats.vercel.app/api?username=raquelciusz&count_private=true?&bg_color=3F3D56&text_color=FFFFFF&title_color=F5B324"></a> 	<img align="right"src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelciusz&layout=compact&bg_color=3F3D56&text_color=FFFFFF&title_color=F5B324"></a>
+</div>
