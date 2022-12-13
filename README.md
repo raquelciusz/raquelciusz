@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Raquel</h1>
+<h1 align="center">I'm Raquel</h1>
 <h3 align="center">A passionate full stack developer from Brazil</h3>
 
 - 🔭 I’m currently working on **Food Delivery Marketplace**
