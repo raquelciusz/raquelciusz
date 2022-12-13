@@ -22,7 +22,7 @@
 <h3 align="left">Social Media:</h3>
 <p align="left">
 <a href="https://www.instagram.com/raquelciusz/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png"/>
 </a>
 </p>
 
