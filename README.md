@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Food Delivery Marketplace Project**
 
-- 📫 How to reach me **raquel.ciusz@yahoo.com**
+- 📫 How to reach me [Email](raquel.ciusz@yahoo.com)
 
 - 📄 Know about my experiences [Raquel Resume](https://drive.google.com/file/d/1MuompIqd4xYDGxWfnArJVxtgpiuHMgyU/view?usp=sharing)
 
