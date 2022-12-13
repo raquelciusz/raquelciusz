@@ -26,12 +26,3 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raquelciusz&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<h3 align="left">Social Media:</h3>
-<p align="left">
-<a href="https://www.instagram.com/raquel.ciusz/">
-  <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png"/>
-</a>
-</p>
-
-
-
