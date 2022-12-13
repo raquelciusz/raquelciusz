@@ -5,7 +5,7 @@
 <h1 align="center">I'm Raquel</h1>
 <h3 align="center">A passionate full stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Food Delivery Marketplace**
+- 🔭 I’m currently working on **Food Delivery Marketplace Project**
 
 - 📫 How to reach me **raquel.ciusz@yahoo.com**
 
