@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **raquel.ciusz@yahoo.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MuompIqd4xYDGxWfnArJVxtgpiuHMgyU/view?usp=sharing](https://drive.google.com/file/d/1MuompIqd4xYDGxWfnArJVxtgpiuHMgyU/view?usp=sharing)
+- 📄 Know about my experiences [Raquel Resume](https://drive.google.com/file/d/1MuompIqd4xYDGxWfnArJVxtgpiuHMgyU/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
