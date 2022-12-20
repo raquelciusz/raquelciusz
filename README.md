@@ -13,7 +13,7 @@
 
 - 🌎 My languages **Portuguese: Native | English: Fluent | German: Basic**.
 
-- 📄 Know about my experiences [Raquel Resume](https://drive.google.com/file/d/1MuompIqd4xYDGxWfnArJVxtgpiuHMgyU/view?usp=sharing).
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1MuompIqd4xYDGxWfnArJVxtgpiuHMgyU/view?usp=sharing" target="blank">Raquel Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
