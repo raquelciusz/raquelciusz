@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey!🕹️&fontColor=000000&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey&Everyone!🕹️&fontColor=000000&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 <h1 align="center">I'm Raquel</h1>
@@ -13,7 +13,7 @@
 
 - 🌎 My languages **Portuguese: Native | English: Fluent | German: Basic**.
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1MuompIqd4xYDGxWfnArJVxtgpiuHMgyU/view?usp=sharing" target="blank">Raquel Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1MuompIqd4xYDGxWfnArJVxtgpiuHMgyU/view?usp=sharing" target="_blank" rel="noopener">Raquel Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
