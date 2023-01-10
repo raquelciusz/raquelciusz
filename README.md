@@ -25,6 +25,6 @@
 
 ### :fire: My Stats :
 <div style="display: inline_block">
-    <img height="164em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raquelciusz&count_private=true?&bg_color=000000&text_color=FFFFFF&title_color=feaf00"></a> 	<img align="right"src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelciusz&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=feaf00"></a>
+    <img height="164em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raquelciusz&count_private=true?&bg_color=000000&text_color=FFFFFF&title_color=feaf00"></a> 	<img align="right"src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raquelciusz&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=feaf00"></a>
 </div>
 
