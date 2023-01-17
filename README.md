@@ -7,7 +7,7 @@
 
 - 📍 Now I live in Stuttgart, Germany.
 
--  I started a new position as Junior Web Developer at Straiv.
+-  I started a new position as Web Developer at **[Straiv](https://straiv.io/)**
 
 - 🔭 I’m currently working on **Food Delivery Marketplace**, it's a personal project to train my skills and improve knowledge.
 
