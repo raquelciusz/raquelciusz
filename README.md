@@ -7,15 +7,13 @@
 
 - 📍 Now I live in Stuttgart, Germany.
 
--  I started a new position as Web Developer at **[Straiv](https://straiv.io/)**
+- 📄 I started a new position as Web Developer at **[Straiv](https://straiv.io/)**
 
 - 🔭 I’m currently working on **Food Delivery Marketplace**, it's a personal project to train my skills and improve knowledge.
 
 - 📫 How to reach me **[Email](raquel.ciusz@yahoo.com)**
 
 - 🌎 My languages **Portuguese: Native | English: Fluent | German: Basic**.
-
-- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1MuompIqd4xYDGxWfnArJVxtgpiuHMgyU/view?usp=sharing" target="_blank" rel="noopener">Raquel Resume</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
