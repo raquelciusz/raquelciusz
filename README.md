@@ -5,7 +5,9 @@
 <h1 align="center">I'm Raquel</h1>
 <h3 align="center">A passionate full stack developer from Brazil.</h3>
 
-- 📍 Now I live in Bremen, Germany.
+- 📍 Now I live in Stuttgart, Germany.
+
+-  I started a new position as Junior Web Developer at Straiv.
 
 - 🔭 I’m currently working on **Food Delivery Marketplace**, it's a personal project to train my skills and improve knowledge.
 
